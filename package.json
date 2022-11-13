@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/DeenoDev/Joke-Generator-App/issues"
   },
-  "homepage": "https://github.com/DeenoDev/Joke-Generator-App#readme"
+  "homepage": "https://github.com/DeenoDev/Joke-Generator-App#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
