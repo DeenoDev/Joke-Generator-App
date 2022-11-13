@@ -1,0 +1,20 @@
+{
+  "name": "joke-generator-app",
+  "version": "1.0.0",
+  "description": "Create a joke generator app with HTML, SASS, Javascript and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeenoDev/Joke-Generator-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeenoDev/Joke-Generator-App/issues"
+  },
+  "homepage": "https://github.com/DeenoDev/Joke-Generator-App#readme"
+}
